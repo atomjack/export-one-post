@@ -7,6 +7,8 @@
  */
 class Export_One_Post {
 
+	private string $fake_date;
+	
 	/**
 	 * Get hooked in
 	 * Define var
